@@ -1,0 +1,10 @@
+img {
+    height: 200px;
+    width: 150px;
+    object-fit: cover;
+}
+body{
+    font-family: "M PLUS Rounded 1c",sans-serif;
+    color: #ddd;
+    font-weight: bolder;
+}
